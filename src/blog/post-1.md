@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 
 title: 'Mon premier article de blog'
 pubDate: 2022-07-01
